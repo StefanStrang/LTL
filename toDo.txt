@@ -3,3 +3,5 @@ to do:
 
 - möglichen input für den code zusammen bekommen.
 - randfälle abdecken
+- logiken hardcoden
+- modul für automatenübersetzung aufsetzen
