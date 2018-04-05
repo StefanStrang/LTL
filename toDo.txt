@@ -1,0 +1,5 @@
+to do:
+======
+
+- möglichen input für den code zusammen bekommen.
+- randfälle abdecken
