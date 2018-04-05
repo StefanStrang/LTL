@@ -1,20 +1,22 @@
-ob wir uns schon datenstrukturen überlegt haben. 
-auf den standard angesprochen, da wir ansonsten käse implementieren. er hat sich nicht darum gekümmert und schaut nach. 
+ob wir uns schon datenstrukturen Ã¼berlegt haben. 
+auf den standard angesprochen, da wir ansonsten kÃ¤se implementieren. er hat sich nicht darum gekÃ¼mmert und schaut nach. 
 
 ltlfilt
-damit kann mans ins pränex splitten
+damit kann mans ins prÃ¤nex splitten
 
-für jede teilformel ein objekt
+fÃ¼r jede teilformel ein objekt
 dinge als methoden vllt darauf definieren oder als generelle funktion. 
-gerade bei reduzieren vllt möglichst tief gehen - probleme bei objekten?!
-ob ihm eine andere sprache leiber wär
+gerade bei reduzieren vllt mÃ¶glichst tief gehen - probleme bei objekten?!
+ob ihm eine andere sprache leiber wÃ¤r
 
 nochmal nachschauen negation nmf
 temporalfaktoren in frieden lassen
 
 hypergraphen vllt zur graphendarstellung
-möglich das naders zu gestalten
+mÃ¶glich das naders zu gestalten
 
 zugang zu repository wird noch gesucht. 
 
-25.04 - nächster termin mittwoch 11 uhr
+25.04 - nÃ¤chster termin mittwoch 11 uhr
+
+
